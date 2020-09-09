@@ -9,6 +9,6 @@
 
 2. Client
 - At the first, connect on the server.
-- `nc \<serverip> \<port>`
+- `nc <serverip> <port>`
 - After execute above command, just input bash command on terminal
 
